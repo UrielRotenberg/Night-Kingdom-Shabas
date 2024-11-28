@@ -2,7 +2,7 @@
   "name": "shabas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://UrielRotenberg.github.io/Night-Kingdom",
+  "homepage": "https://UrielRotenberg.github.io/Night-Kingdom-Shabas",
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.2",
     "@testing-library/jest-dom": "^5.17.0",

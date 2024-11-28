@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Night-Kingdom-Shabas/static/css/main.322782a6.css",
+    "main.js": "/Night-Kingdom-Shabas/static/js/main.08ec526c.js",
+    "static/media/PrisonBackground.png": "/Night-Kingdom-Shabas/static/media/PrisonBackground.1e69ef0f71f1b0ed420b.png",
+    "static/media/BackgroundCheck.png": "/Night-Kingdom-Shabas/static/media/BackgroundCheck.27f550a7a521495fd630.png",
+    "static/media/NightKingdomLogo.png": "/Night-Kingdom-Shabas/static/media/NightKingdomLogo.c53974a9ae85667e8053.png",
+    "index.html": "/Night-Kingdom-Shabas/index.html",
+    "main.322782a6.css.map": "/Night-Kingdom-Shabas/static/css/main.322782a6.css.map",
+    "main.08ec526c.js.map": "/Night-Kingdom-Shabas/static/js/main.08ec526c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322782a6.css",
+    "static/js/main.08ec526c.js"
+  ]
+}
